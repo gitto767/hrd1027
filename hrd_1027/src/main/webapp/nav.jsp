@@ -15,6 +15,8 @@
     <li><a href="order.jsp">회원 매출 조회</a></li>
     <li><a href="order_custnu.jsp">회원번호 매출조회</a></li>
     <li><a href="order_name.jsp">회원번호(이름) 매출조회</a></li>
+    <li><a href="order_product.jsp">회원매출조회(상품)</a></li>
+    <li><a href="order_pcode.jsp">회원매출조회(상품코드별)</a></li>
     <li><a href="index.jsp">홈으로</a></li>    
   </ul>
 </nav>
